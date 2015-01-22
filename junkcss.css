@@ -1,0 +1,20 @@
+h1 {
+	color: red;
+	background-color: gray;
+	background-size: cover;
+	text-align: center;
+	font: italic bold 36px/40px Georgia, serif;
+	background-image: url("https://ununsplash.imgix.net/photo-1416862291207-4ca732144d83?q=75&fm=jpg&s=df8c00463528dcbff9e2f80eb9c09516");
+
+}
+body {
+	background-size: cover;
+	background-color: tan;
+	text-align: left;
+	font: 24px arial, sans-serif;
+
+}
+ul {
+	list-style-type: square;
+
+}
